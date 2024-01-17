@@ -22,7 +22,7 @@ https://github.com/JimoNeverDies/PromoGen/assets/105875528/de748ff3-8041-4329-ad
 <strong>+ Run start.bat</strong>
 <br>
 <strong>+ It is recommended to use proxies to obtain more nitro promos</strong>
-<br>
+<br><br>
 
 -----
 
