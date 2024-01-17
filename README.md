@@ -10,7 +10,6 @@
 <br><br>
 </strong>
 https://github.com/JimoNeverDies/PromoGen/assets/105875528/de748ff3-8041-4329-ad93-8b71f92e124c
-<br>
 
 -----
 
