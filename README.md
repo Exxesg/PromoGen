@@ -9,7 +9,7 @@
 <br>
 <br><br><br>
 </strong>
-<img src="https://youtu.be/vqAzZCn6Ggk" width="800", height="400"></p>
+<img src="https://github.com/JimoNeverDies/PromoGen/assets/105875528/de748ff3-8041-4329-ad93-8b71f92e124c" width="800", height="400"></p>
 <br>
 
 -----
@@ -17,6 +17,7 @@
 ### <p align="center">💻 How to install it 💻</p>
 
 <br><br>
+<br>
 <pre>+ Run Install.bat
 <br>
 <pre>+ Run start.bat</pre>
