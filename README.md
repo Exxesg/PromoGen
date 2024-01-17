@@ -7,9 +7,9 @@
 <strong>Discord Nitro 1 month promotional code generator</strong>
 <br>
 <br>
-<br><br><br>
+<br><br>
 </strong>
-<img src="https://github.com/JimoNeverDies/PromoGen/assets/105875528/de748ff3-8041-4329-ad93-8b71f92e124c" width="800", height="400"></p>
+https://github.com/JimoNeverDies/PromoGen/assets/105875528/de748ff3-8041-4329-ad93-8b71f92e124c
 <br>
 
 -----
@@ -17,12 +17,11 @@
 ### <p align="center">💻 How to install it 💻</p>
 
 <br><br>
+<strong>+ Run Install.bat</strong>
 <br>
-<pre>+ Run Install.bat
+<strong>+ Run start.bat</strong>
 <br>
-<pre>+ Run start.bat</pre>
-<br>
-<pre>+ It is recommended to use proxies to obtain more nitro promos</pre>
+<strong>+ It is recommended to use proxies to obtain more nitro promos</strong>
 <br>
 
 -----
